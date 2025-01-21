@@ -1,5 +1,7 @@
 1.You need to create a .env.local file and give your Mongodb uri connection string to NEXT_PUBLIC_MONGODB_URI variable.
 
+2. ***The designs and navbar is not properly showing the work i did please run the code locally to check results ***
+
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
