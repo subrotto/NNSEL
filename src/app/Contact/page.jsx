@@ -36,7 +36,7 @@ const page = () => {
                                   </section>
                                   <section className='mx-4 md:mx-0'>
                                     
-                                        <Image className='mx-auto' src='/images/Contact/img.png' height={900} width={1020} alt='image'></Image>
+                                        <Image className='mx-auto' src='/images/contact1.png' height={900} width={1020} alt='image'></Image>
                                     
                                   </section>
                                   <section className='py-16 md:py-32 flex flex-col items-center md:flex-row md:justify-center gap-8 md:gap-32 text-white'>

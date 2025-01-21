@@ -21,7 +21,7 @@ const page = () => {
                                   <hr className='w-4/5 mx-auto' />
                                   <section className='py-32 '>
                                     <div className='mx-4 md:mx-0'>
-                                    <Image className='mx-auto' src='/images/Projectdetails/img1.png' height={900} width={1020} alt='image1'></Image>
+                                    <Image className='mx-auto' src='/images/Projectdetails1.png' height={900} width={1020} alt='image1'></Image>
                                     </div>
                                     <div className='mt-32 mx-auto flex flex-col items-center '>
                     <div className='mx-auto flex flex-col items-start mx-8 md:mx-0'>
@@ -35,11 +35,11 @@ We cannot imagine a wedding without the opportunity to capture it on film, we wo
                                     <div className='flex flex-col md:flex-row  gap-4 justify-evenly pt-16'>
                                                    
                                                     <div className='mx-4 md:mx-0'>
-                                                        <Image src='/images/Projectdetails/img2.png' height={100} width={500} alt='img2'></Image>
+                                                        <Image src='/images/Projectdetails2.png' height={100} width={500} alt='img2'></Image>
                                                         
                                                     </div>
                                                     <div className='mx-4 md:mx-0'>
-                                                        <Image src='/images/Projectdetails/img3.png' height={100} width={500} alt='img3'></Image>
+                                                        <Image src='/images/Projectdetails3.png' height={100} width={500} alt='img3'></Image>
                                                         
                                                     </div>
                                                 </div>
@@ -85,7 +85,7 @@ And what helps to achieve a good result? We will look at these issues and some o
                                     <h2 className='text-white text-6xl text-center'>Other Projects</h2>
                                      <div className='grid grid-cols-2 gap-4 md:flex md:justify-evenly mt-16'>
                                                     <div>
-                                                        <Image src='/images/Projectdetails/img4.png' height={100} width={300} alt='img4'></Image>
+                                                        <Image src='/images/Projectdetails4.png' height={100} width={300} alt='img4'></Image>
                                                         <div className='mt-4  flex flex-col items-center '>
                     <div className='mx-auto flex flex-col items-start'>
                     <p className='text-white text-xl'>Logo Project 1</p>
@@ -95,7 +95,7 @@ And what helps to achieve a good result? We will look at these issues and some o
                                                         
                                                     </div>
                                                     <div>
-                                                        <Image src='/images/Projectdetails/img5.png' height={100} width={300} alt='img5'></Image>
+                                                        <Image src='/images/Projectdetails5.png' height={100} width={300} alt='img5'></Image>
                                                         <div className='mt-4 mx-auto flex flex-col items-center '>
                     <div className='mx-auto flex flex-col items-start'>
                     <p className='text-white text-xl'>Logo Project 2</p>
@@ -104,7 +104,7 @@ And what helps to achieve a good result? We will look at these issues and some o
                                     </div>
                                                     </div>
                                                     <div>
-                                                        <Image src='/images/Projectdetails/img6.png' height={100} width={300} alt='img6'></Image>
+                                                        <Image src='/images/Projectdetails6.png' height={100} width={300} alt='img6'></Image>
                                                         <div className='mt-4 mx-auto flex flex-col items-center '>
                     <div className='mx-auto flex flex-col items-start'>
                     <p className='text-white text-xl'>Logo Project 3</p>

@@ -47,7 +47,7 @@ export default function Home() {
         
       
       <Image src='/images/Rectangle2.png' className="hidden lg:block lg:absolute z-0 top-110" height={50} width={40} alt="Rectangle2"></Image>
-      <Image className="mx-auto py-16 md:py-0" src='/images/homepage/Rectangle 361.png' height={400} width={400} alt="Person"></Image>
+      <Image className="mx-auto py-16 md:py-0" src='/images/Rectangle 361.png' height={400} width={400} alt="Person"></Image>
       
         </div>
         
@@ -73,7 +73,7 @@ export default function Home() {
       <div className="">
       <div className="md:flex md:justify-center items-center pb-16">
       <div className="mb-8 md:mb-0">
-      <Image className="mx-auto py-4 md:py-16 md:py-0" src='/images/homepage/img.png' height={400} width={500} alt="Image1"></Image>
+      <Image className="mx-auto py-4 md:py-16 md:py-0" src='/images/homepage1.png' height={400} width={500} alt="Image1"></Image>
       <div className="flex items-center text-white pb-4 mt-4 text-2xl">
             Brand Journey Improvements
             <span className="ml-8">
@@ -86,7 +86,7 @@ export default function Home() {
           </div>
       </div>
       <div className="md:ml-16">
-      <Image className="mx-auto py-4 md:py-16 md:py-0" src='/images/homepage/img2.png' height={400} width={500} alt="Image2"></Image>
+      <Image className="mx-auto py-4 md:py-16 md:py-0" src='/images/homepage2.png' height={400} width={500} alt="Image2"></Image>
       <div className="flex items-center text-white pb-4 mt-4 text-2xl">
             Brand Grouping
             <span className="ml-8">
@@ -101,7 +101,7 @@ export default function Home() {
       </div>
       <div className="md:flex justify-center">
       <div>
-      <Image className="mx-auto py-4 md:py-16 md:py-0" src='/images/homepage/img3.png' height={400} width={500} alt="Image3"></Image>
+      <Image className="mx-auto py-4 md:py-16 md:py-0" src='/images/homepage3.png' height={400} width={500} alt="Image3"></Image>
       <div className="flex items-center text-white pb-4 mt-4 text-2xl">
             NFT Glimps
             <span className="ml-8">
@@ -114,7 +114,7 @@ export default function Home() {
           </div>
       </div>
       <div className="md:ml-16">
-      <Image className="mx-auto py-4 md:py-16 md:py-0" src='/images/homepage/img4.png' height={400} width={500} alt="Image4"></Image>
+      <Image className="mx-auto py-4 md:py-16 md:py-0" src='/images/homepage4.png' height={400} width={500} alt="Image4"></Image>
       <div className="flex items-center text-white pb-4 mt-4 text-2xl">
             Brand Suggestions
             <span className="ml-8">
@@ -142,7 +142,7 @@ export default function Home() {
       </div>
         </div>
         <div className="py-32 md:py-0">
-        <Image src='/images/homepage/umbrella.png' alt="Arrow Sign" height={50} width={100}></Image>
+        <Image src='/images/umbrella.png' alt="Arrow Sign" height={50} width={100}></Image>
         </div>
       </section>
     </div>

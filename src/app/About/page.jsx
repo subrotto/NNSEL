@@ -31,11 +31,11 @@ const page = () => {
                         <div className='md:flex gap-8 justify-center mt-16'>
                                        
                                         <div>
-                                            <Image className='mx-auto my-4 md:my-0' src='/images/About/img1.png' height={400} width={300} alt='img1'></Image>
+                                            <Image className='mx-auto my-4 md:my-0' src='/images/About1.png' height={400} width={300} alt='img1'></Image>
                                             
                                         </div>
                                         <div className='mx-4 md:mx-0'>
-                                            <Image className='mt-16 md:mt-0 ' src='/images/About/img2.png' height={500} width={625} alt='img2'></Image>
+                                            <Image className='mt-16 md:mt-0 ' src='/images/About2.png' height={500} width={625} alt='img2'></Image>
                                             
                                         </div>
                                     </div>
