@@ -1,3 +1,6 @@
+1.You need to create a .env.local file and give your Mongodb uri connection string to NEXT_PUBLIC_MONGODB_URI variable.
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
